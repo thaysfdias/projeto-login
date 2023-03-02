@@ -116,7 +116,7 @@ form, input[type=submit]:hover {
     background-color: #2d6462;
 }
 
-form, a.botao {
+a.botao {
     display: block;
     text-align: center;
     font-size: 1em;
@@ -131,10 +131,11 @@ form, a.botao {
     text-decoration: none;
 }
 
-form, a.botao:hover {
+a.botao:hover {
     background-color: #6cd3cf;
 }
 
-form, a.botao, i {
+a.botao, i {
     font-size: 0.8em;
+    color: #2d6462;
 }
